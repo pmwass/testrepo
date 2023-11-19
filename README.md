@@ -1,5 +1,3 @@
 # testrepo
 
-# goodness gracious delight
-
-How may I serve you, master?
+A test repository originally composed by Princeton M. Wassajja-Mutebi.
